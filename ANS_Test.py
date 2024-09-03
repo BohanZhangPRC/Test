@@ -200,7 +200,7 @@ display(out)
 # State variables
 test_started = False
 current_row = None
-test_index = 60 
+test_index = 0 
 
 event_info = {}
 
